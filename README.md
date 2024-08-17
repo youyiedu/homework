@@ -41,6 +41,9 @@
 - **教师学历**：研究生学历
 - **从业经验**：从事教育行业14年，教学经验丰富
 
+<img src="./image/image copy 4.png" alt="image" style="zoom:25%;" />
+<img src="./image/image copy 5.png" alt="image copy" style="zoom:25%;" />
+
 **联系方式**：
 - 刘老师: 13413055442
 - 阮老师: 15816391943
