@@ -1,9 +1,5 @@
 # 优一教育
 
-
-
-
-
 ## 开设课程
 
 **招生对象**：1~9年级学生
@@ -38,14 +34,6 @@
 8. **阅读习惯**
 
 
-
-
-
-
-
-## 学习环境展示
-
-
 ## 关于我们
 
 优一教育致力于提供高质量的教育服务，我们的教师具有以下背景和资格：
@@ -61,3 +49,10 @@
 **地址**：惠州市惠城区名流印象三期4栋（实验中学对面）
 
 **扫码添加微信**
+
+
+<img src="./image/image.png" alt="image" style="zoom:25%;" />
+<img src="./image/image copy.png" alt="image copy" style="zoom:25%;" />
+
+## 实景展示
+<img src="./image/image copy 2.png" alt="image"  />
